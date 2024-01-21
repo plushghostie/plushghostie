@@ -1,12 +1,14 @@
 [![MasterHead](linkimageimao)](https://github.com/plushghostie)
 
-<h3 align="center">A horror lover student studying under computer web development</h3> <p align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif"> </p>
+<h3 align="center"> ᶻ 𝗓 𐰁 . A horror lover student studying under computer web development</h3> <p align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif"> </p>
 
-<p align="center"> <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif"> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plushghostie&label=Profile%20views&color=0e75b6&style=flat" alt="plushghostie" /> </p>
+<p align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198582959096221696/IMG_3620.jpg?ex=65bf6e5e&is=65acf95e&hm=9ec3a02998d3e052b03e39612e1f5bc3ac9c845b60980167a5d412dca4ad75cb&"> </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1e2001a428c33df2d9edc842ed1c8c860c51245744beb083e3c4d2f12a244ef/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313139343733373930383338313339373133392f313139383532373439363731393731323239372f556e7469746c6564315f32303234303132313032313933322e706e67">
+
+<h5 align="center"> ♡ . more about me <3 </h5>
+
+<p align="center"> <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif"> </p>
 
 - ˚₊‧꒰ა I’m currently learning ໒꒱ ‧₊˚ **python, java script and html.**
 
