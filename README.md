@@ -1,16 +1,10 @@
-<div class="container p-0" style="width:500px">
-    
-<div class="card p-1 border-5" style="background: #FFF1FB; rounded: 4px 4px 0 #FFDCF6">
- 
 <div class="row no-gutters">
         <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif">
         
 <p style="display:inline-block;text-align:left;text-transform:uppercase;text-shadow: 2px 2px 5px #FFB0D7;font-size:25px;">val | 14 | they/them</p>
 
 <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif">
-    
-       <! -- change url to any divider you want val so don't be stupid me! -- >
- 
+
        <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif">
     
 <div style="min-height: 200px;">
