@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1e2001a428c33df2d9edc842ed1c8c860c51245744beb083e3c4d2f12a244ef/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313139343733373930383338313339373133392f313139383532373439363731393731323239372f556e7469746c6564315f32303234303132313032313933322e706e67">
 
-<h5 align="center"> ♡ . more about me <3 </h5>
+<h5 align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198716762867376199/Tumblr_l_7309010290506.gif"> ♡ . more about me <3 </h5>
 
 <p align="center"> <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif"> </p>
 
@@ -45,7 +45,13 @@
 
 </center>
 
-#
+##
+
+<img align="left" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1194737908381397139/1198707531783082155/Untitled4_20240121141534.png">
+
+<h5 align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546992914239580/IMG_8367.gif"> ♡ . extra <3 </h5>
+
+<p align="center"> <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
@@ -53,3 +59,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plushghostie&show_icons=true&locale=en&layout=compact" alt="plushghostie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plushghostie&show_icons=true&locale=en" alt="plushghostie" /></p>
+
+<p align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198582959096221696/IMG_3620.jpg?ex=65bf6e5e&is=65acf95e&hm=9ec3a02998d3e052b03e39612e1f5bc3ac9c845b60980167a5d412dca4ad75cb&"> </p>
