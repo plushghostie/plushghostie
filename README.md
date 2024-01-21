@@ -43,14 +43,6 @@
 
 <div><center>
 
-<img src="https://media.discordapp.net/attachments/1194737908381397139/1198520469654098010/dd85byt-00192981-e259-4bd0-99b3-c88d0d349706.gif" width="105" height="140">
-
-<img src="https://media.discordapp.net/attachments/1194737908381397139/1198520470618787931/toys.gif" width="105" height="140">
-
-<img src="https://media.discordapp.net/attachments/1194737908381397139/1198520470312599612/dreamy.gif?ex=65bf342b&is=65acbf2b&hm=fb4658cc929f6585d2e07f2e3086811b68f1ed5b3aa3d7e8c050002a2408cf78&" width="105" height="140">
-
-<img src="https://media.discordapp.net/attachments/1194737908381397139/1198520470010601542/defm5bu-9f182a17-4353-4ac9-9ba5-54814c7bff69.gif" width="105" height="140">
-
 </center>
 
 
