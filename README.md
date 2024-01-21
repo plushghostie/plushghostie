@@ -1,6 +1,7 @@
 [![MasterHead](linkimageimao)](https://github.com/plushghostie)
 
-<h3 align="center">A student studying computer web development</h3>
+
+<p align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198542195171545218/Untitled2_20240121031745.png" class="fr-fic fr-dii" width="78" height="44.1406"> </p> <h3 align="center">A student studying computer web development</h3> <p align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198542195171545218/Untitled2_20240121031745.png" class="fr-fic fr-dii" width="78" height="44.1406"> </p>
 
 <p align="center"> <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif"> </p>
 
@@ -21,6 +22,18 @@
 <img src="https://media.discordapp.net/attachments/1194737908381397139/1198542196887007262/IMG_3910.png" class="fr-fic fr-dii" width="79" height="44.7031">
 
 <img src="https://media.discordapp.net/attachments/1194737908381397139/1198542196417245224/Untitled2_20240121031740.png" class="fr-fic fr-dii" width="80" height="45.2812"></span></span></p><p><span style="color: #e0f799;">
+
+</center>
+
+<div><center>
+
+<img src="https://media.discordapp.net/attachments/1194737908381397139/1198520469654098010/dd85byt-00192981-e259-4bd0-99b3-c88d0d349706.gif" width="120" height="30">
+
+<img src="https://media.discordapp.net/attachments/1194737908381397139/1198520470618787931/toys.gif" width="120" height="30">
+
+<img src="https://media.discordapp.net/attachments/1194737908381397139/1198520470312599612/dreamy.gif" width="120" height="30">
+
+<img src="https://media.discordapp.net/attachments/1194737908381397139/1198520470010601542/defm5bu-9f182a17-4353-4ac9-9ba5-54814c7bff69.gif" width="120" height="30">
 
 </center>
 
