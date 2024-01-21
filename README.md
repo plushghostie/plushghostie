@@ -1,9 +1,5 @@
 <div class="row no-gutters">
-        <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif">
-        
-<p style="display:inline-block;text-align:left;text-transform:uppercase;text-shadow: 2px 2px 5px #FFB0D7;font-size:25px;">val | 14 | they/them</p>
-
-<img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif">
+        <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif"> <p style="display:inline-block;text-align:left;text-transform:uppercase;text-shadow: 2px 2px 5px #FFB0D7;font-size:25px;">val | 14 | they/them</p> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif">
     
 <div style="min-height: 200px;">
 
