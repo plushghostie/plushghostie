@@ -8,11 +8,11 @@
 
 <p align="center"> <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif"> </p>
 
-- ˚₊‧꒰ა I’m currently learning ໒꒱ ‧₊˚ **python, java script and html.**
+♡ I’m currently learning ♡ **Python, javascript, and HTML.**
 
-- ˚₊‧꒰ა My current goal ໒꒱ ‧₊˚ **Develop a teen social media app that allows full customization, and I want to learn 3d game development.**
+♡ My current goal ♡ **Develop a teen social media app that allows full customization, and I want to learn 3d game development.**
 
-- ˚₊‧꒰ა My Inspirations ໒꒱ ‧₊˚ **are Silent Hill, Resident Evil, Cry of Fear, Fatal Frame, old 2000s web pages, and the myspace website as a whole.**
+♡ My Inspirations ♡ **are Silent Hill, Resident Evil, Cry of Fear, Fatal Frame, old 2000s web pages, and the Myspace website.**
 
 <div><center>
 
