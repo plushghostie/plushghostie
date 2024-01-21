@@ -1,13 +1,28 @@
 [![MasterHead](linkimageimao)](https://github.com/plushghostie)
+
 <h3 align="center">A student studying computer web development</h3>
+
+<p align="center"> <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plushghostie&label=Profile%20views&color=0e75b6&style=flat" alt="plushghostie" /> </p>
 
 - ˚₊‧꒰ა I’m currently learning ໒꒱ ‧₊˚ **python, java script and html.**
 
-- ˚₊‧꒰ა My current goal ໒꒱ ‧₊˚ **Developing social media apps that allow full customization, and I want to learn 3d game development.**
+- ˚₊‧꒰ა My current goal ໒꒱ ‧₊˚ **Develop a teen social media app that allows full customization, and I want to learn 3d game development.**
 
-- ˚₊‧꒰ა My Inspirations ໒꒱ ‧₊˚ **are silent hill, resident evil, cry of fear, fatel frame, old 2000s web pages, and the myspace website as a whole.**
+- ˚₊‧꒰ა My Inspirations ໒꒱ ‧₊˚ **are Silent Hill, Resident Evil, Cry of Fear, Fatal Frame, old 2000s web pages, and the myspace website as a whole.**
+
+<div><center>
+
+<img src="https://media.discordapp.net/attachments/1194737908381397139/1198542195171545218/Untitled2_20240121031745.png" class="fr-fic fr-dii" width="78" height="44.1406">
+
+<img src="https://media.discordapp.net/attachments/1194737908381397139/1198542195922321469/Untitled2_20240121031742.png" class="fr-fic fr-dii" width="79" height="44.7031">
+
+<img src="https://media.discordapp.net/attachments/1194737908381397139/1198542196887007262/IMG_3910.png" class="fr-fic fr-dii" width="79" height="44.7031">
+
+<img src="https://media.discordapp.net/attachments/1194737908381397139/1198542196417245224/Untitled2_20240121031740.png" class="fr-fic fr-dii" width="80" height="45.2812"></span></span></p><p><span style="color: #e0f799;">
+
+</center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plushghostie&show_icons=true&locale=en&layout=compact" alt="plushghostie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plushghostie&show_icons=true&locale=en" alt="plushghostie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plushghostie&" alt="plushghostie" /></p>
