@@ -61,3 +61,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plushghostie&show_icons=true&locale=en" alt="plushghostie" /></p>
 
 <p align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198582959096221696/IMG_3620.jpg?ex=65bf6e5e&is=65acf95e&hm=9ec3a02998d3e052b03e39612e1f5bc3ac9c845b60980167a5d412dca4ad75cb&"> </p>
+
+##
