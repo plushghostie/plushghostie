@@ -34,8 +34,6 @@
 <a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/sEDvCLn1c0d5KJBpLlazFcN8CTEPumU4LXjqvvmKmOa4=/https://64.media.tumblr.com/0de381875abffc75461cfb10f7a35c68/439e474683f8528a-44/s100x200/e28759a33c45b70738308d10ef1550ef5cb42ff2.pnj"/></a>
 <a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/sqbu-oPrXlXxXC24E9GKitpgt8pM36kp_yQ3FlueDFv0=/https://64.media.tumblr.com/634993c960c00f865bc155624e950f0b/5290f32f834534a6-b6/s100x200/e833debfe8cad82e09d37dc79819b1627b5daf09.pnj"/></a>
 <a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/sQJhpCMaWE_9YteQ2bEw8RNBkyeC4JBNbi5KxMgVLwwA=/https://64.media.tumblr.com/cc6c3b71d325541a47162727998cf784/8cc2313271fb0c9f-b6/s100x200/7d16896e5d3eafc6c8a57e4f2d24a4a9baa2dab1.pnj"/></a>
-<a href="https://external-media.spacehey.net"><img src="https://camo.githubusercontent.com/ad994d7ed32f9fa9c1cb21e0ef3a8a60636e7392d509fcd25b5bac07d92c6495/68747470733a2f2f73312e657a6769662e636f6d2f746d702f657a6769662d312d323139373238356332312e77656270"/></a>
-<a href="https://external-media.spacehey.net"><img src="https://s5.ezgif.com/tmp/ezgif-5-9e6d610c23.png"/></a>
 <a href="https://external-media.spacehey.net"><img src=""/></a>
 <a href="https://external-media.spacehey.net"><img src=""/></a>
 <a href="https://external-media.spacehey.net"><img src=""/></a>
