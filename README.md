@@ -1,11 +1,10 @@
-<h3 align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif"> ᶻ 𝗓 𐰁 . A horror lover student studying under computer web development . ꩜ <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546993753096292/IMG_7387.gif"> </h3>
-<p align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198582959096221696/IMG_3620.jpg?ex=65bf6e5e&is=65acf95e&hm=9ec3a02998d3e052b03e39612e1f5bc3ac9c845b60980167a5d412dca4ad75cb&"> </p>
+<h3 align="center"> <img src="https://external-media.spacehey.net/media/s4_NJiOIuyWos4QrendD9gHhZRC4D3ZRDPKe72x8IO6E=/https://64.media.tumblr.com/d65212d0050b2057686a31a3033377a4/9a5e59d4a20102aa-17/s75x75_c1/f537b0a0585d89556f1dfac7a609449e0dcd6813.gifv"> ᶻ 𝗓 𐰁 . A horror lover student studying under computer web development . ꩜ <img src="https://external-media.spacehey.net/media/s4_NJiOIuyWos4QrendD9gHhZRC4D3ZRDPKe72x8IO6E=/https://64.media.tumblr.com/d65212d0050b2057686a31a3033377a4/9a5e59d4a20102aa-17/s75x75_c1/f537b0a0585d89556f1dfac7a609449e0dcd6813.gifv"> </h3>
+<p align="center"> <img src="http://dl.glitter-graphics.net/pub/157/157641b27q8mcaol.gif"> </p>
 
-<p align="center"> <img src="https://external-media.spacehey.net/media/sQdVbtlYgK6L5ZeGYnWAXiu9z3xMJlfHNgv8vcDhmxIU=/https://64.media.tumblr.com/b77540e9b0553cfb08d50b0d0e77dc1b/bb5af280fa6c8e21-3c/s540x810/8abafc6a936b85c13390062080f69f881e3b415c.pnj"> </p>
+<p align="center"> <img src="https://64.media.tumblr.com/8e088e4d817540368f080cfdf9d5d220/587034f5d92dc90d-e2/s500x750/2bf4777813cbe32d98ea4ae79877f9fc7a84c62a.png"> </p>
 
 <h5 align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198716762867376199/Tumblr_l_7309010290506.gif"> ♡ . more about me <3 </h5>
-
-<p align="center"> <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif"> </p>
+<p align="center"> <img src="https://64.media.tumblr.com/a9bb09bb5ccef6c37c20dff59fa31081/tumblr_inline_n37hbv4m5U1qhwjx8.png"> </p>
 
 <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546994872991794/Tumblr_l_18563478765129.gif"> I’m currently learning ♡ **Python, javascript, blender, c++, CSS, and HTML.** <img src="https://media.discordapp.net/attachments/1194737908381397139/1198687528618836078/IMG_7390.gif">
 
@@ -18,7 +17,6 @@
 <div><center>
 <a href="https://collection.ju.mp"><img src="https://external-media.spacehey.net/media/sT-JOS-X9cgOyLol8Y7g_3FPKIFwfagnirrBRTP9CWGI=/https://mewoooz.carrd.co/assets/images/gallery01/02db1086.png?v=7b6e3e76"/>
 <a href="https://collection.ju.mp"><img src="https://external-media.spacehey.net/media/sK-BuPJ3p5TTKTn_GFd0ASDQnwGORpgZI9i6tqMmbn10=/https://koinuko.pink/mygraphics/buttons/kitty3.png"/></a>
-<a href="https://collection.ju.mp"><img src="https://external-media.spacehey.net/media/sS-0JUZRS5otvzVQkCXG0odQoudrMNKf5EPVruG_TxlY=/https://64.media.tumblr.com/7c4d52884bc3cf67031cdd8303a5091f/5290f32f834534a6-cc/s100x200/865d96a2fcc530e2ed25a18b07f2af8272bc3d5c.pnj"/></a>
 <a href="https://collection.ju.mp"><img src="https://camo.githubusercontent.com/5398e2d5b846e049491e1db80b18c2f2e8f40a7140264cba05d861b002d97b21/68747470733a2f2f636f6c6c656374696f6e2e6a752e6d702f6173736574732f696d616765732f67616c6c65727933352f31623466613633635f6f726967696e616c2e6769663f763d3032333635393464"/></a>
 <a href="https://collection.ju.mp"><img src="https://64.media.tumblr.com/527084c2b3a3b14c31184e8d6386ed43/e4d134fc2dfafbb4-d5/s100x200/de71733f3f49e7d887ecdd6af73adab7a95d1869.pnj"/></a>
 <img src="https://64.media.tumblr.com/3b843b7d9b396bf0b40d9a264c8b0f5a/9aed802313768450-90/s100x200/8ec6676d38edd9e06e06b5b50047ecce2e96b441.gifv"/>
@@ -52,6 +50,7 @@
 <a href="https://external-media.spacehey.net"><img src="https://camo.githubusercontent.com/f4b17fa6352622c19e6aef60605139837abf2546508c77363610235fef266e11/68747470733a2f2f65787465726e616c2d6d656469612e73706163656865792e6e65742f6d656469612f73763532566e6b7242516943466c55635f3230427a39494e62414e3246734942723947336c664346596d59633d2f68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f36343732326663613532376234306461623235613931663163386562333431392f633731626262613931376532326133642d34302f73323530783430302f343739313439663634633536626365303930303839313266643736386132326462366337643135632e67696676"/></a>
 <a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/s_jdBjDL1itDDSvV89r1udMtxtaRWliFdhxounvoePws=/https://wilardo.crd.co/assets/images/gallery01/4e857f2e_original.gif?v=e670c4e7"/></a>
 <a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/s3QOLwDkALF_x62X1lv7RTEeS3tSvWgtB7aOvVEiky78=/https://64.media.tumblr.com/40175f39b479866b1da9b1697f8ff19b/669ea7f1b1152ddd-b3/s250x400/f8fe488dd66d164ed6e740f999fab653395a82fd.gif"/></a>
+<a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/s4rDMIj81daqG27jLNX301xuH3qbc2UA6nehhvSd7hG8=/https://66.media.tumblr.com/75c3450baa8eb6503a202ee28a9469e7/tumblr_pfl0hiFB371xv8ux2o1_250.gif"/></a>
 <a href="https://external-media.spacehey.net"><img src=""/></a>
 <a href="https://external-media.spacehey.net"><img src=""/></a>
 
