@@ -1,3 +1,5 @@
+<img src="./Cool.png">
+
 <h3 align="center"> <img src="https://external-media.spacehey.net/media/s4_NJiOIuyWos4QrendD9gHhZRC4D3ZRDPKe72x8IO6E=/https://64.media.tumblr.com/d65212d0050b2057686a31a3033377a4/9a5e59d4a20102aa-17/s75x75_c1/f537b0a0585d89556f1dfac7a609449e0dcd6813.gifv"> ᶻ 𝗓 𐰁 . A horror lover student studying under computer web development . ꩜ <img src="https://external-media.spacehey.net/media/s4_NJiOIuyWos4QrendD9gHhZRC4D3ZRDPKe72x8IO6E=/https://64.media.tumblr.com/d65212d0050b2057686a31a3033377a4/9a5e59d4a20102aa-17/s75x75_c1/f537b0a0585d89556f1dfac7a609449e0dcd6813.gifv"> </h3>
 <p align="center"> <img src="http://dl.glitter-graphics.net/pub/157/157641b27q8mcaol.gif"> </p>
 
