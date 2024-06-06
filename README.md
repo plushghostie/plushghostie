@@ -6,11 +6,11 @@
 <h5 align="center"> <img src="https://external-media.spacehey.net/media/sduIT1KzS0L7vjLUEPs9TOl9KGgp7a9IHvmdT_Ws4fXY=/https://64.media.tumblr.com/06a686870c0c36a8b9dd3c410f5edfa9/6277972726bbf1e7-bd/s75x75_c1/410f34ab9ac59b270456be804c149911b36b4052.pnj"> ♡ . more about me <3 </h5>
 <p align="center"> <img src="https://64.media.tumblr.com/a9bb09bb5ccef6c37c20dff59fa31081/tumblr_inline_n37hbv4m5U1qhwjx8.png"> </p>
 
-<img src="https://media.discordapp.net/attachments/1194737908381397139/1198546994872991794/Tumblr_l_18563478765129.gif"> I’m currently learning ♡ **Python, javascript, blender, c++, CSS, and HTML.** <img src="https://media.discordapp.net/attachments/1194737908381397139/1198687528618836078/IMG_7390.gif">
+I’m currently learning ♡ **Python, javascript, blender, c++, CSS, and HTML.**
 
-<img src="https://media.discordapp.net/attachments/1194737908381397139/1198546994872991794/Tumblr_l_18563478765129.gif"> My current goal ♡ **Develop a teen social media app that allows full customization, and I want to learn 3d game development.** <img src="https://media.discordapp.net/attachments/1194737908381397139/1198687529679994900/05311DB4-3B74-45B9-A85D-D7E530DBA5D8.gif">
+My current goal ♡ **Develop a teen social media app that allows full customization, and I want to learn 3d game development.**
 
-<img src="https://media.discordapp.net/attachments/1194737908381397139/1198546994872991794/Tumblr_l_18563478765129.gif"> My Inspirations ♡ **are Silent Hill, Resident Evil, Cry of Fear, Fatal Frame, old 2000s web pages, and the Myspace website.** <img src="https://media.discordapp.net/attachments/1194737908381397139/1198687529361219594/01D986FD-768F-42BB-8B53-D85A49B62E7C.gif">
+My Inspirations ♡ **are Silent Hill, Resident Evil, Cry of Fear, Fatal Frame, old 2000s web pages, and the Myspace website.**
 
 ##
 
