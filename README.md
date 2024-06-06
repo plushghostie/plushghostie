@@ -17,12 +17,7 @@ My Inspirations ♡ **are Silent Hill, Resident Evil, Cry of Fear, Fatal Frame, 
 ##
 
 <div><center>
-<a href="https://collection.ju.mp"><img src="https://external-media.spacehey.net/media/sT-JOS-X9cgOyLol8Y7g_3FPKIFwfagnirrBRTP9CWGI=/https://mewoooz.carrd.co/assets/images/gallery01/02db1086.png?v=7b6e3e76"/>
 <a href="https://collection.ju.mp"><img src="https://external-media.spacehey.net/media/sK-BuPJ3p5TTKTn_GFd0ASDQnwGORpgZI9i6tqMmbn10=/https://koinuko.pink/mygraphics/buttons/kitty3.png"/></a>
-<a href="https://collection.ju.mp"><img src="https://camo.githubusercontent.com/5398e2d5b846e049491e1db80b18c2f2e8f40a7140264cba05d861b002d97b21/68747470733a2f2f636f6c6c656374696f6e2e6a752e6d702f6173736574732f696d616765732f67616c6c65727933352f31623466613633635f6f726967696e616c2e6769663f763d3032333635393464"/></a>
-<img src="https://64.media.tumblr.com/3b843b7d9b396bf0b40d9a264c8b0f5a/9aed802313768450-90/s100x200/8ec6676d38edd9e06e06b5b50047ecce2e96b441.gifv"/>
-<img src="https://64.media.tumblr.com/a1cce9419fc36a502ef095b0293dce41/90a43be54702e8c1-39/s100x200/f8a21e57e76082471de9a69488c3fd6c8684397a.pnj"/>
-<img src="https://64.media.tumblr.com/790dbe8bbf72ef194292300c094f8f58/90a43be54702e8c1-a1/s100x200/647eec77588187a04c8b5abb9060b2d851350752.gifv"/>
 <a href="https://external-media.spacehey.net"><img src="https://camo.githubusercontent.com/08f147cd63e0afb520dfd89e0ab876ece4baf972091c80d3d3c70bc063df95c7/68747470733a2f2f65787465726e616c2d6d656469612e73706163656865792e6e65742f6d656469612f737053334f774f757768544f4a70513176725a456e6e334c2d524f6c4f6c67746a6f425058556458694e32493d2f68747470733a2f2f692e6962622e636f2f4d4e3838344e422f343466616265393337343261663835306338646266626131373161346565666238613835613935312e706e67"/></a>
 <a href="https://external-media.spacehey.net"><img src="https://camo.githubusercontent.com/ff7f9a70ef795bd612e30ca8b7a66df202bad12bfa3215b0b9a8f459afe29c66/68747470733a2f2f65787465726e616c2d6d656469612e73706163656865792e6e65742f6d656469612f7354534f62754c446b72654947304330713144522d45457976555a61386d6b72794144513958355a773673733d2f68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f33346630353563346234313561613661623533343965323130303864633863622f656662393365396335393361316464372d34312f73313030783230302f616230366230386465383532303663613237646134346262636362366633373632613433663361302e67696676"/></a>
 <a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/sFsKH_--5FhPXgA_JJEhl7JORIivvWeR4iDgafoRDW24=/https://cyber.dabamos.de/88x31/rumia.gif"/></a>
@@ -56,7 +51,7 @@ My Inspirations ♡ **are Silent Hill, Resident Evil, Cry of Fear, Fatal Frame, 
 ##
 <p align="center"> <img src="https://external-media.spacehey.net/media/s14s4sbbI5FXec8Vezr2GOxyZtR5-Wrqvx38qttMDjKo=/https://64.media.tumblr.com/21c6ec64ae5698813eec48776041a0d6/0a4801df6aa0db54-79/s400x600/55580dda2885b1bf53aa7bb10a279ee6f7dee8fe.gifv"> </p>
 
-<h5 align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198546992914239580/IMG_8367.gif"> ♡ . extra <3 </h5>
+<h5 align="center">♡ . extra <3 </h5>
 
 <p align="center"> <img src="https://media.discordapp.net/attachments/1025549489525760126/1079998236435169280/rosa-byDuffzin-1-1-1.gif"> </p>
 
@@ -70,6 +65,7 @@ My Inspirations ♡ **are Silent Hill, Resident Evil, Cry of Fear, Fatal Frame, 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plushghostie&show_icons=true&locale=en" alt="plushghostie" /></p>
 
-<p align="center"> <img src="https://media.discordapp.net/attachments/1194737908381397139/1198582959096221696/IMG_3620.jpg?ex=65bf6e5e&is=65acf95e&hm=9ec3a02998d3e052b03e39612e1f5bc3ac9c845b60980167a5d412dca4ad75cb&"> </p>
+<p align="center"> <img src="https://external-media.spacehey.net/media/s14s4sbbI5FXec8Vezr2GOxyZtR5-Wrqvx38qttMDjKo=/https://64.media.tumblr.com/21c6ec64ae5698813eec48776041a0d6/0a4801df6aa0db54-79/s400x600/55580dda2885b1bf53aa7bb10a279ee6f7dee8fe.gifv"> </p>
+
 
 ##
