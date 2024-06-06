@@ -1,9 +1,8 @@
 <img src="./Cool.png">
+<p align="center"> <img src="https://64.media.tumblr.com/8e088e4d817540368f080cfdf9d5d220/587034f5d92dc90d-e2/s500x750/2bf4777813cbe32d98ea4ae79877f9fc7a84c62a.png"> </p>
 
 <h3 align="center"> <img src="https://external-media.spacehey.net/media/s4_NJiOIuyWos4QrendD9gHhZRC4D3ZRDPKe72x8IO6E=/https://64.media.tumblr.com/d65212d0050b2057686a31a3033377a4/9a5e59d4a20102aa-17/s75x75_c1/f537b0a0585d89556f1dfac7a609449e0dcd6813.gifv"> ᶻ 𝗓 𐰁 . A horror lover student studying under computer web development . ꩜ <img src="https://external-media.spacehey.net/media/s4_NJiOIuyWos4QrendD9gHhZRC4D3ZRDPKe72x8IO6E=/https://64.media.tumblr.com/d65212d0050b2057686a31a3033377a4/9a5e59d4a20102aa-17/s75x75_c1/f537b0a0585d89556f1dfac7a609449e0dcd6813.gifv"> </h3>
 <p align="center"> <img src="http://dl.glitter-graphics.net/pub/157/157641b27q8mcaol.gif"> </p>
-
-<p align="center"> <img src="https://64.media.tumblr.com/8e088e4d817540368f080cfdf9d5d220/587034f5d92dc90d-e2/s500x750/2bf4777813cbe32d98ea4ae79877f9fc7a84c62a.png"> </p>
 
 <h5 align="center"> <img src="https://external-media.spacehey.net/media/sduIT1KzS0L7vjLUEPs9TOl9KGgp7a9IHvmdT_Ws4fXY=/https://64.media.tumblr.com/06a686870c0c36a8b9dd3c410f5edfa9/6277972726bbf1e7-bd/s75x75_c1/410f34ab9ac59b270456be804c149911b36b4052.pnj"> ♡ . more about me <3 </h5>
 <p align="center"> <img src="https://64.media.tumblr.com/a9bb09bb5ccef6c37c20dff59fa31081/tumblr_inline_n37hbv4m5U1qhwjx8.png"> </p>
@@ -59,9 +58,6 @@ My Inspirations ♡ **are Silent Hill, Resident Evil, Cry of Fear, Fatal Frame, 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plushghostie&show_icons=true&locale=en&layout=compact" alt="plushghostie" /></p>
-
-<div style="float:  ; max-height: 300px; position: fixed; right: 185px; top: 120px; z-index: 400;">
-<img src="https://preview.redd.it/first-time-playing-how-did-i-get-this-ending-its-not-in-the-v0-85wag6iht6yb1.png?width=398&format=png&auto=webp&s=6066bbc2ff9cd7d95fc6cc0c692d260b5d87f0ee" height="250"/></div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plushghostie&show_icons=true&locale=en" alt="plushghostie" /></p>
 
