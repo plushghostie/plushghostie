@@ -2,11 +2,11 @@ __ __
 
 ![icon1](https://media.discordapp.net/attachments/1090717255194652732/1113934443284013188/168565196291072454_72.png)</P>
 
-name.**name**  ☆ prn *prn*
+lisa,  ☆
 
-gender ![pixel1](https://maguro.carrd.co/assets/images/gallery12/54ae2689_original.gif?v=50a2d75d) mono/poly/ambi
+newbie ![pixel1](https://maguro.carrd.co/assets/images/gallery12/54ae2689_original.gif?v=50a2d75d) html/css/python
 
-lisa , web dev, game dev
+web dev, game dev
 ![pixel2](https://maguro.carrd.co/assets/images/gallery01/12e2c80c_original.gif?v=50a2d75d) she/they ![pixel3](https://maguro.carrd.co/assets/images/gallery01/e9357a16_original.gif?v=50a2d75d) minor ![pixel2](https://maguro.carrd.co/assets/images/gallery01/12e2c80c_original.gif?v=50a2d75d)
 
 *"* **quote/lyric/song space** *"*
