@@ -1,8 +1,8 @@
 __ __
 
-![icon1](https://media.discordapp.net/attachments/1090717255194652732/1113934443284013188/168565196291072454_72.png)</P>
+![icon1](https://external-media.spacehey.net/media/s8nK4ApsyHjcTq2pfPlI-WuQZGwmkTgnt2fJovbX14sE=/https://64.media.tumblr.com/f6e32b367eba740e1d359a94b49996df/642e8381a18942ba-73/s400x600/4be2ae0bfaed07b1d15c9f739cb78e04a6a08a99.gifv)</P>
 
-lisa,  ☆
+lisa,  ♡
 
 newbie ![pixel1](https://maguro.carrd.co/assets/images/gallery12/54ae2689_original.gif?v=50a2d75d) html/css/python
 
