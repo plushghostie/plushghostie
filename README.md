@@ -1,6 +1,6 @@
 __ __
 
-![icon1](https://external-media.spacehey.net/media/s8nK4ApsyHjcTq2pfPlI-WuQZGwmkTgnt2fJovbX14sE=/https://64.media.tumblr.com/f6e32b367eba740e1d359a94b49996df/642e8381a18942ba-73/s400x600/4be2ae0bfaed07b1d15c9f739cb78e04a6a08a99.gifv)</P>
+![icon1]()</P>
 
 lisa,  ♡
 
@@ -13,7 +13,7 @@ web dev, game dev
 
 __ __
 
-![icon2](https://maguro.carrd.co/assets/images/gallery16/6e358f7e_original.png?v=50a2d75d) [01](https://rentry.co/rddatemp5link1)  ,  [02](https://rentry.co/rddatemp5link2)
+![icon2](https://external-media.spacehey.net/media/s8nK4ApsyHjcTq2pfPlI-WuQZGwmkTgnt2fJovbX14sE=/https://64.media.tumblr.com/f6e32b367eba740e1d359a94b49996df/642e8381a18942ba-73/s400x600/4be2ae0bfaed07b1d15c9f739cb78e04a6a08a99.gifv) [01](https://rentry.co/rddatemp5link1)  ,  [02](https://rentry.co/rddatemp5link2)
 
 <a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/s_DFxGAypq893fzXqpWI4oja7VoO7R74Ya7Bc4LBMCFw=/https://64.media.tumblr.com/92cb4884d53606c7233420e7f0b13f06/0a844093c4702aee-bb/s250x400/3eb2a46f0bf1b44aa1a1ee34723278284c2ac89d.gifv"/></a>
 <a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/sZa0j9mm9QPNNVcWKWVsqDTmyx-lVtsLgdcfQELL7ihE=/https://64.media.tumblr.com/25da0f6413e2ca4584f8213f0883bdfa/aaa2c54ca6bb866a-c4/s100x200/5cd3979a000c506e5de67d5e5517044d2a426634.pnj"/></a>
