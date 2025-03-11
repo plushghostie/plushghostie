@@ -1,5 +1,5 @@
 __ __
-<a href="https://external-media.spacehey.net"><img src="https://64.media.tumblr.com/67f46bb50d1dc7e0fd98c42f81653b08/d0f97fd7c3b75ffe-86/s1280x1920/5b670564f0b256f75582936cbc3cdc796102adbf.pnj"/></a>
+<a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/s6DCPv0AhDXuO7JDtR9gLNbBpzmmvT-wx44p46PFRark=/https://64.media.tumblr.com/3974f88c25a1ab9fc4dad68ef98bab8f/f64ceba3f2235b31-6a/s640x960/40bdd0e9f50c41a2d16572cc78863a446d00ef46.pnj"/></a>
 
 ![icon1](https://64.media.tumblr.com/d0f751bffb30424bf9978284f4ca49b0/8382a24005a6fbaf-ee/s500x750/78e6ea4a7629dac370cdf9cccb56de79b8daffaa.pnj)</P>
 
@@ -12,7 +12,7 @@ web dev, game dev
 
 ![pixel5](https://external-media.spacehey.net/media/sNrAteJfDffBrwC1mf_4Y4cERePisiOG4b4EFR8xABdw=/https://64.media.tumblr.com/bddec45606e45baf08402f4429a64386/49148566a2e0c40c-c0/s75x75_c1/dfd1b212da22328902e3b4a00b56b0eac52da7c0.gifv) **My inspos are: silent hill, 2000s, myspace** ![pixel4](https://external-media.spacehey.net/media/sNrAteJfDffBrwC1mf_4Y4cERePisiOG4b4EFR8xABdw=/https://64.media.tumblr.com/bddec45606e45baf08402f4429a64386/49148566a2e0c40c-c0/s75x75_c1/dfd1b212da22328902e3b4a00b56b0eac52da7c0.gifv)
 
-<a href="https://external-media.spacehey.net"><img src="https://64.media.tumblr.com/d08b84c8768cc5d13e6e2571d98e62a2/d0f97fd7c3b75ffe-29/s1280x1920/93e5572d98c810d0e3f4b3b0882391cd31f3e07d.pnj"/></a>
+<a href="https://external-media.spacehey.net"><img src="https://external-media.spacehey.net/media/s6DCPv0AhDXuO7JDtR9gLNbBpzmmvT-wx44p46PFRark=/https://64.media.tumblr.com/3974f88c25a1ab9fc4dad68ef98bab8f/f64ceba3f2235b31-6a/s640x960/40bdd0e9f50c41a2d16572cc78863a446d00ef46.pnj"/></a>
 __ __
 
 ![icon2](https://external-media.spacehey.net/media/s8nK4ApsyHjcTq2pfPlI-WuQZGwmkTgnt2fJovbX14sE=/https://64.media.tumblr.com/f6e32b367eba740e1d359a94b49996df/642e8381a18942ba-73/s400x600/4be2ae0bfaed07b1d15c9f739cb78e04a6a08a99.gifv)
